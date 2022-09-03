@@ -6,4 +6,6 @@
 2. write in CMD: set PATH="the path of the jdk file".
 3. write in CMD: javac Main.class
 4. write in CMD: java Main
-      Congratulation! now you executed the program
+      
+      
+      **Congratulation! now you executed the program**
