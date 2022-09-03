@@ -1,0 +1,21 @@
+import java.util.*;
+import javax.swing.*;
+
+public class Frame{
+    JLabel label = new JLabel("Don't freak out!");
+    Frame(){
+        this.setDefaultCloseOperation(JFrame. EXIT_ON_CLOSE);
+        this.setOpaque(true);
+        this.setSize(400,400);
+        this.setLocationRelativeTo(null);
+        this.setContentPane().setBackground(new Color(0x000000));
+        this.add(label);
+        this.addActionListener(this);
+        this.setVisible);
+        }
+        
+        public void actionPerformed(Event e){
+            if(frame==e.getSource()){
+            
+            }
+        }
